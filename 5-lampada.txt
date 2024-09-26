@@ -1,0 +1,22 @@
+Passos:
+Primeiro passo - manipulação dos interruptores:
+
+- Ligue o primeiro interruptor (A) e o deixe ligado por alguns minutos (por exemplo, 5 minutos). Isso fará com que a lâmpada correspondente aqueça.
+- Desligue o primeiro interruptor (A) após esses minutos.
+- Ligue o segundo interruptor (B) e deixe-o ligado.
+
+Primeira ida à sala das lâmpadas:
+
+Agora, vá até a sala onde estão as lâmpadas e observe:
+- A lâmpada que está acesa corresponde ao interruptor B, que ficou ligado.
+- A lâmpada que está apagada, mas quente corresponde ao interruptor A, que estava ligado anteriormente e foi desligado antes de você ir até a sala.
+- A lâmpada que está apagada e fria corresponde ao interruptor C, que você não tocou.
+
+Segunda ida não é necessária:
+
+Com isso, você identificou qual lâmpada corresponde a cada interruptor sem precisar de uma segunda ida à sala das lâmpadas.
+
+Resumo:
+- Interruptor A: lâmpada apagada e quente.
+- Interruptor B: lâmpada acesa.
+- Interruptor C: lâmpada apagada e fria.
